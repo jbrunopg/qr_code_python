@@ -9,4 +9,4 @@ Criar um gerador de imagem em QrCode com Python
 
 - [x] Importação da biblioteca qrcode
 - [x] Definição do link do QrCode, da largura e das cores
-- [x] Salvando a imagem
+- [x] Salvando a imagem em PNG
